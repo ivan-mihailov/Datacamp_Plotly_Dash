@@ -27,7 +27,7 @@ app.layout = html.Div(children=[
     html.Div(children=[
         html.Img(src=logo_link,
         # Place the logo side-by-side the H1 with required margin
-        style={'display': 'inline-block, 'margin': '25px'}),
+        style={'display': 'inline-block', 'margin': '25px'}),
         html.H1(children=['Sales Figures'],
                 # Make the H1 side-by-side with the logos
                 style={'display': 'inline-block'}),
