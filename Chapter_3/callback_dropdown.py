@@ -31,7 +31,7 @@ app.layout = html.Div([
                         {'label':'FR', 'value':'France'},
                         {'label':'AUS', 'value':'Australia'},
                         {'label':'HK', 'value':'Hong Kong'}],
-                    style={'width:' '200px', 'margin': '0 auto'})
+                    style={'width' : '200px', 'margin': '0 auto'})
                 ],
                 style={'width':'350px', 'height':'350px', 'display':'inline-block',
                        'vertical-align':'top', 'border':'1px solid black',
