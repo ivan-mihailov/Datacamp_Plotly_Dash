@@ -37,7 +37,7 @@ app.layout = html.Div([
                 dcc.Graph(id='major_cat'),
                 dcc.Graph(id='minor_cat'),
                 ],
-                style={'width':'700px', 'height': '650px', 'display':'inline-block'}),
+                style={'width': '700px', 'height': '650px', 'display': 'inline-block'}),
             ]),],
 style={'text-align':'center', 'display':'inline-block', 'width':'100%'})
 
